@@ -1,0 +1,9 @@
+.scrolling{
+    text-align: right;
+   
+    position: fixed;
+    cursor: pointer;
+    z-index: 10;
+    bottom: 1rem;
+    right: 1rem;
+}

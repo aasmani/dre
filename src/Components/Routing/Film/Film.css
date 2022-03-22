@@ -1,0 +1,67 @@
+#film{
+    padding: 1rem 2rem;
+    box-shadow: rgb(16 1 15 / 45%) 2px 9px 21px -1px;
+    background-color: #4c0cab14;
+    text-align: center;
+}
+.films{
+    text-align: center;
+    font-size: 4.1rem;
+    margin-left: 2rem;
+    text-shadow: 2px 2px 4px #000000;
+    color: #ab11a7;
+}
+/* .line__film{
+    width: 13%;
+    border-style: dotted;
+    border-bottom: none;
+    color: #060808;
+    border-width: 4px;
+    margin-left: 42rem;
+} */
+.film__details{
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+    margin: 3rem 9rem 0rem 4rem;
+}
+.film_image{
+    width: 14rem;
+    border-radius: 66%;
+    height: 214px;
+    margin-right: 5.5rem;
+    
+
+}
+.film__descrip{
+    line-height: 2;
+    letter-spacing: 3px;
+    font-size: 18px;
+
+    text-align: initial;
+    color: #ab11a7;
+    font-weight: bold;
+    font-family: monospace;
+}
+.film__descrip::selection{
+    background: #4b92b1;
+    color: #fff;
+}
+.bottom{
+    text-align: right;
+  
+    margin-top: 5px;
+    letter-spacing: 8px;
+  
+    font-weight: 900;
+    text-shadow: 2px 2px 8px #000000;
+}
+.bottomLine__film{
+    width: 26%;
+    border-style: ridge;
+    border-bottom: none;
+    color: #060808;
+    border-width: 4px;
+    margin-left: 68rem;
+}

@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Public+Sans:wght@200&family=Ubuntu:wght@300&display=swap');
+#services{
+    padding:1rem 0rem 3rem 0;
+    box-shadow: rgb(16 1 15 / 45%) 2px 9px 21px -1px;
+    background-color: #bdbdbdb5;
+}
+.service{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-left: 14rem;
+    text-shadow: 2px 2px 4px #000000;
+    color: #ab11a7;  
+ 
+}
+.header_name_service{
+    position: absolute;
+    top: 2rem;
+    /* left: 34rem; */
+    right: 15.4rem;
+
+}
+.service_header{
+    position: relative;
+}
+.service_header img{
+    text-align: center;
+    position: absolute;
+    /* top: 6rem; */
+    /* left: 34rem; */
+    right: 12rem;
+}
+/* .line__service{
+    width: 25%;
+    border-style: dotted;
+    border-bottom: none;
+    color: #060808;
+    border-width: 4px;
+    margin-left: 41rem;
+} */
+.service__details{
+    display: flex;
+    margin-top: 5rem;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/* .service__details_img{
+    margin-right: 5rem;
+} */
+.service_image{
+    width: 19rem;
+    height: 18rem;
+ 
+    margin-top: 2rem;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+.service_image:hover{
+    transform: translateX(1rem) translateY(-1rem) ;
+}
+/* .service_content{
+    border-bottom: 0.1rem double;
+}
+.service_content ul{
+    display: flex;
+    align-items: center;
+}
+.service_content ul li{
+    list-style: none;
+    margin: 0 2rem 1.5rem 2rem;
+    font-size: 1.5rem;
+}
+.service_content ul li:hover{
+    border-bottom: 0.5rem solid #8338ec;
+} */
+
+ .packages ul{
+    margin: 2rem 0;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+ }
+
+
+ .packages ul li{
+    padding: 1rem 2rem;
+    border-bottom: 0.1rem solid black;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu', sans-serif;
+    cursor: pointer;
+}
+
+
+.packages ul li.activate {
+     border-bottom: 0.5rem solid #ab11a7;
+     
+ }
+
+
+
+
+
+
+
+
+
+
+
+.below_button{
+    margin-top: 3rem;
+    margin-left: 17rem;
+
+  
+}
+
+
+
+.below_button ul li{
+    font-size: 1.5rem;
+    margin: 40px 0px;
+    font-family: 'Ubuntu', sans-serif;
+    letter-spacing: 4px;
+   
+    transition: 0.3s ease-in-out;
+}
+.below_button ul li:hover{
+    cursor: pointer;
+    color: #ab11a7;
+    font-weight: 900;
+    transform: translateX(0.4rem) translateY(-0.4rem);
+}
+
+/* .backgroundservice {
+    height: 100%;
+}
+.backgroundservice img {
+    width: 100%;
+    filter: brightness(82%);
+    height: 503.8px;
+} */
+    
