@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/dre/static/css/main.cb7ff20d.css",
+    "main.js": "/dre/static/js/main.8fb00c51.js",
+    "static/media/Visions.jpg": "/dre/static/media/Visions.a8c987c6700c3708646d.jpg",
+    "static/media/content_back.jpg": "/dre/static/media/content_back.493536127e33ca3a7d07.jpg",
+    "static/media/1.jpg": "/dre/static/media/1.f4275ccc447f6034d024.jpg",
+    "static/media/mission.png": "/dre/static/media/mission.d1873204a01a9806fabe.png",
+    "static/media/Logo.png": "/dre/static/media/Logo.37ec51826852c480764c.png",
+    "static/media/Logo1.png": "/dre/static/media/Logo1.37ec51826852c480764c.png",
+    "static/media/design.jpg": "/dre/static/media/design.5e92d2ad9b5c6aa48f03.jpg",
+    "static/media/social__media.jpg": "/dre/static/media/social__media.8c7d09ca36e19a32a093.jpg",
+    "static/media/about_us_dreach_media_1.jpg": "/dre/static/media/about_us_dreach_media_1.125f311be624e55a48f9.jpg",
+    "static/media/web_develoment.jpg": "/dre/static/media/web_develoment.577bd10c0bcf96de228b.jpg",
+    "static/media/about_us.jpg": "/dre/static/media/about_us.7d544bf9650ba34cfd4b.jpg",
+    "static/media/Film.jpg": "/dre/static/media/Film.630e69b371a7bee7d179.jpg",
+    "static/media/service__background2.png": "/dre/static/media/service__background2.83e0199f49e0757cd25c.png",
+    "static/media/background_image1.png": "/dre/static/media/background_image1.f2c76e4118bede040a96.png",
+    "static/media/conent1.jpg": "/dre/static/media/conent1.53b66723a68c18f94e73.jpg",
+    "static/media/service_image.png": "/dre/static/media/service_image.db0c1e4d05cb46ae0bb9.png",
+    "static/media/service_back.jpg": "/dre/static/media/service_back.5bdef24e3aa83a77613a.jpg",
+    "index.html": "/dre/index.html",
+    "main.cb7ff20d.css.map": "/dre/static/css/main.cb7ff20d.css.map",
+    "main.8fb00c51.js.map": "/dre/static/js/main.8fb00c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb7ff20d.css",
+    "static/js/main.8fb00c51.js"
+  ]
+}
